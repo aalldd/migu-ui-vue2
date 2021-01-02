@@ -1,6 +1,6 @@
 # Migu 一个vue ui框架
 
-[![Build Status](https://travis-ci.com/aalldd/Migu-ui.svg?branch=master)](https://travis-ci.com/aalldd/Migu-ui)
+[![Build Status](https://travis-ci.com/aalldd/migu-ui-vue2.svg?branch=master)](https://travis-ci.com/aalldd/migu-ui-vue2)
 
 ## 介绍
 
