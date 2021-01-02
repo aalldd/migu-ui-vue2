@@ -1,6 +1,6 @@
 {
-  "name": "migu-ax",
-  "version": "0.0.1",
+  "name": "migu-ui",
+  "version": "0.0.3",
   "description": "这是一个ui框架",
   "main": "dist/index.js",
   "scripts": {
