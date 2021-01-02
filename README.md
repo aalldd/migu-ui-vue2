@@ -1,4 +1,4 @@
-# 轱辘 一个vue ui框架
+# Migu 一个vue ui框架
 
 [![Build Status](https://travis-ci.com/aalldd/Migu-ui.svg?branch=master)](https://travis-ci.com/aalldd/Migu-ui)
 
@@ -17,40 +17,44 @@
   ```
   IE8及以上浏览器都支持此样式
 
-  你还需要设置默认颜色等变量(后续会改为scss变量)
-  ```
-  html {
-       --button-height: 32px;
-       --font-size: 14px;
-       --button-bg: white;
-       --button-active-bg: #eee;
-       --border-raidus: 4px;
-       --color: #999;
-       --border-color: #999;
-       --border-color-hover: #6
-  }
-  ```
-  IE15及以上浏览器支持此样式
-
 2.安装 Migu
 ```
 npm i -S Migu
 ```
 3.引入Migu
 ```
-import {Button ButtonGroup,Icon} from 'Migu'
-import 'Migu-demo/dist/index.css'
+import {Button, ButtonGroup, Icon,Col, Collapse, CollapseItem, Content, Footer, Header, Input, Layout, Popover
+                 , Row, Sider, Tabs, TabsHead, TabsBody, TabsItem, TabsPane, Toast,plugin} from 'Migu-ui'
+import 'Migu-ui/dist/index.css'
 
 export default {
    name:'app',
    components:{
      'migu-button':Button,
-     'migu-icon':Icon
+     'migu-icon':Icon,
+     'migu-button-group':ButtonGroup,
+     'migu-col':Col,
+     'migu-collapse':Collapse,
+     'migu-collapse-item':CollapseItem,
+     'migu-content': Content,
+     'migu-footer': Footer,
+     'migu-header': Header,
+     'migu-input': Input,
+     'migu-layout': Layout,
+     'migu-popover': Popover,
+     'migu-row': Row,
+     'migu-sider': Sider,
+     'migu-tabs': Tabs,
+     'migu-tabs-head': TabsHead,
+     'migu-tabs-body': TabsBody,
+     'migu-tabs-item': TabsItem,
+     'migu-tabs-pane': TabsPane,
+     'migu-toast': Toast
    }
 }
 ```
 ## 文档
-
+[Migu ui官网](https://aalldd.github.io/migu-ui-vue2/)
 ## 提问
 
 ## 变更记录

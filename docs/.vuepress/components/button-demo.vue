@@ -22,6 +22,10 @@ export default {
 <style scoped lang='scss'>
   .buttonWrapper{
     display: flex;
-    justify-content: space-around;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    .migu-button{
+      margin: 10px!important;
+    }
   }
 </style>

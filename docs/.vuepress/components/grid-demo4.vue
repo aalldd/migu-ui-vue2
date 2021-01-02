@@ -39,6 +39,7 @@ export default {
     color: white;
     margin-top: 10px;
     border-radius: 4px;
+    margin-top: 10px!important;
   }
   .row{
     :first-child{

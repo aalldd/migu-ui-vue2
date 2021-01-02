@@ -5,7 +5,7 @@
   >
     <migu-icon class="icon" v-if="icon && !loading" :name="icon"></migu-icon>
     <migu-icon class="loading icon" name="loading" v-if="loading"></migu-icon>
-    <div class="content">
+    <div class="migu-button-content">
       <slot></slot>
     </div>
   </button>
@@ -116,7 +116,7 @@ $button-active-bg: #eee;
     margin-left: 0;
   }
 
-  > .content {
+  > .migu-button-content {
     order: 2;
   }
 
@@ -127,7 +127,7 @@ $button-active-bg: #eee;
       margin-left: .1em;
     }
 
-    > .content {
+    > .migu-button-content {
       order: 1;
     }
 

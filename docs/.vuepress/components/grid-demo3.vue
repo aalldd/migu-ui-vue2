@@ -41,7 +41,7 @@ export default {
   .col {
     text-align: center;
     color: white;
-    margin-top: 10px;
+    margin-top: 10px!important;
 
     > span {
       display: block;

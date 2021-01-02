@@ -27,7 +27,7 @@ export default {
     justify-content: flex-start;
     flex-wrap: wrap;
     .migu-button{
-      margin: 10px;
+      margin: 10px!important;
     }
   }
 </style>

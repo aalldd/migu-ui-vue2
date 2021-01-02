@@ -1,9 +1,8 @@
 ---
 title: 'Button - 按钮'
 ---
+# Button - 按钮
 migu ui为您准备了五种功能不一的按钮
-# 按钮
-
 ## 预览
 &nbsp;
 <ClientOnly>

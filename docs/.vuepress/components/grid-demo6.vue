@@ -35,7 +35,7 @@ export default {
   .col {
     text-align: center;
     color: white;
-    margin-top: 10px;
+    margin-top: 10px!important;
     border-radius: 4px;
     min-height: 27px;
   }

@@ -54,7 +54,7 @@ export default {
   justify-content: flex-start;
   flex-wrap: wrap;
   .migu-popover{
-    margin: 10px;
+    margin: 10px!important;
   }
 }
 </style>

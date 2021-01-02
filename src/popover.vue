@@ -1,6 +1,6 @@
 <template>
   <div class="migu-popover" ref="popover">
-    <div class="content"
+    <div class="migu-popover-content"
          v-show="visible"
          ref="contentWrapper"
          :class="{[`position-${position}`]:true}"
@@ -119,7 +119,7 @@ $border-color:#333;
   position: relative;
 }
 
-.content {
+.migu-popover-content {
   position: absolute;
   border: 1px solid $border-color;
   border-radius: 4px;

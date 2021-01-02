@@ -1,12 +1,13 @@
 module.exports = {
     title: 'Migu UI',
     description: '一个好用的 UI 框架',
+    base:'/migu-ui-vue2/',
     themeConfig:{
         displayAllHeaders: true,
         nav: [
             { text: '主页', link: '/' },
             { text: '文档', link: '/install/' },
-            { text: 'GitHub', link: 'https://github.com/wh2887/init-ui/' },
+            { text: 'GitHub', link: 'https://github.com/aalldd/migu-ui-vue2' },
         ],
         sidebar:[
             {
@@ -34,5 +35,6 @@ module.exports = {
                 ]
             }
         ]
-    }
+    },
+    theme: 'reco'
 }

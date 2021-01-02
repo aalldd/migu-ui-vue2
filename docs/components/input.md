@@ -1,9 +1,8 @@
 ---
 title: 'Input - 输入框'
 ---
-通过鼠标或键盘输入字符
 # Input - 输入框
-
+通过鼠标或键盘输入字符
 ## 预览
 &nbsp;
 <ClientOnly>

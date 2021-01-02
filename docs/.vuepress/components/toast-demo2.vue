@@ -71,7 +71,7 @@ export default {
 <style scoped lang='scss'>
 .toastWrapper{
   .migu-button{
-    margin: 10px;
+    margin: 10px!important;
   }
 }
 </style>

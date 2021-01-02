@@ -39,7 +39,7 @@ export default {
   .col {
     text-align: center;
     color: white;
-    margin-top: 10px;
+    margin-top: 10px!important;
     border-radius: 4px;
     background: #99A9BF;
     max-height: 27px;

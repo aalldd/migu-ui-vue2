@@ -1,9 +1,8 @@
 ---
 title: 'Layout- 布局'
 ---
-layout布局可以帮助您快速的实现一个基本的网页结构
 # Layout- 布局
-
+layout布局可以帮助您快速的实现一个基本的网页结构
 ## 预览
 &nbsp;
 <ClientOnly>

@@ -1,9 +1,8 @@
 ---
 title: 'Icon - 图标'
 ---
+# Icon - 图标
 您可以方便的使用项目中用到的所有图标
-# 图标
-
 ## 预览
 &nbsp;
 <ClientOnly>
